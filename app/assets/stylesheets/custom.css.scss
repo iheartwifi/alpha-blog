@@ -33,8 +33,28 @@ $navbar-default-bg: #fff5ee;
   letter-spacing: -1px;
 }
 
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.description {
+  margin-top: 0px;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 footer {
-  margin-top: 45px;
+  margin-top: 100px;
   padding-top: 5px;
   border-top: 1px solid #efefef;
   color: #777;
