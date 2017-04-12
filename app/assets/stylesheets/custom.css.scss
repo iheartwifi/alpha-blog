@@ -8,6 +8,8 @@ $navbar-default-bg: #fff5ee;
   font-size: 1.7em;
   color: 767373;
   letter-spacing: -1px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 #logo hover {
@@ -31,6 +33,12 @@ $navbar-default-bg: #fff5ee;
   text-align: center;
   margin-bottom: 30px;
   letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px; 
 }
 
 .article-actions {
@@ -54,7 +62,7 @@ $navbar-default-bg: #fff5ee;
 }
 
 footer {
-  margin-top: 300px;
+  margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid #efefef;
   color: #777;
